@@ -1,136 +1,136 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Peliculas",AXN
+#EXTINF:-1 group-title="Cine",AXN
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263277
-#EXTINF:-1 group-title="Peliculas",A&E
+#EXTINF:-1 group-title="Cine",A&E
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263279
-#EXTINF:-1 group-title="Peliculas",FX
+#EXTINF:-1 group-title="Cine",FX
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263442
-#EXTINF:-1,FHD | Lifetime
+#EXTINF:-1 group-title="Cine",Lifetime
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263440
-#EXTINF:-1,FHD | Sony
+#EXTINF:-1 group-title="Cine",Sony
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263347
-#EXTINF:-1,FHD | Telemundo Internacional
+#EXTINF:-1 group-title="Variedades",Telemundo Internacional
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301425
-#EXTINF:-1,FHD | TLC
+#EXTINF:-1 group-title="Cultura",TLC
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301426
-#EXTINF:-1,FHD | Discovery Channel
+#EXTINF:-1 group-title="Cultura",Discovery Channel
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263294
-#EXTINF:-1,FHD | Animal Planet
+#EXTINF:-1 group-title="Cultura",Animal Planet
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263295
-#EXTINF:-1,FHD | Discovery H&H
+#EXTINF:-1 group-title="Cultura",Discovery H&H
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263299
-#EXTINF:-1,FHD | Discovery TLC
+#EXTINF:-1 group-title="Cultura",TLC
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263348
-#EXTINF:-1,FHD | Discovery Turbo
+#EXTINF:-1 group-title="Cultura",Discovery Turbo
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263349
-#EXTINF:-1,FHD | Discovery World
+#EXTINF:-1 group-title="Cultura",Discovery World
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263350
-#EXTINF:-1,FHD | Discovery Science
+#EXTINF:-1 group-title="Cultura",Discovery Science
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263436
-#EXTINF:-1,FHD | Discovery Theater
+#EXTINF:-1 group-title="Cultura",Discovery Theater
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263438
-#EXTINF:-1,FHD | History Channel
+#EXTINF:-1 group-title="Cultura",History Channel
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263300
-#EXTINF:-1,FHD | History 2
+#EXTINF:-1 group-title="Cultura",History 2
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301433
-#EXTINF:-1,FHD | Investigacion Discovery
+#EXTINF:-1 group-title="Cultura",Investigacion Discovery
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263293
-#EXTINF:-1,FHD | National Geographic
+#EXTINF:-1 group-title="Cultura",National Geographic
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263296
-#EXTINF:-1,FHD | Canal Uno Colombia
+#EXTINF:-1 group-title="Colombia",Canal Uno Colombia
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263503
-#EXTINF:-1,FHD | Pasiones
+#EXTINF:-1 group-title="Variedades",Pasiones
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263522
-#EXTINF:-1,FHD | Cartoon Network
+#EXTINF:-1 group-title="Infantil",Cartoon Network
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263286
-#EXTINF:-1,FHD | Disney Channel
+#EXTINF:-1 group-title="Infantil",Disney Channel
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263301
-#EXTINF:-1,FHD | Disney jr
+#EXTINF:-1 group-title="Infantil",Disney jr
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301444
-#EXTINF:-1,FHD | TeenNick
+#EXTINF:-1 group-title="Infantil",TeenNick
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301436
-#EXTINF:-1,FHD | Cartoonito
+#EXTINF:-1 group-title="Infantil",Cartoonito
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301437
-#EXTINF:-1,FHD | Discovery Kids
+#EXTINF:-1 group-title="Infantil",Discovery Kids
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263303
-#EXTINF:-1,FHD | Nickelodeon
+#EXTINF:-1 group-title="Infantil",Nickelodeon
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263291
-#EXTINF:-1,FHD | Nick Jr
+#EXTINF:-1 group-title="Infantil",Nick Jr
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263292
-#EXTINF:-1,FHD | AMC
+#EXTINF:-1 group-title="Cine",AMC
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263354
-#EXTINF:-1,FHD | Cinecanal
+#EXTINF:-1 group-title="Cine",Cinecanal
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263281
-#EXTINF:-1,FHD | Cinemax
+#EXTINF:-1 group-title="Cine",Cinemax
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263356
-#EXTINF:-1,FHD | Golden
+#EXTINF:-1 group-title="Cine",Golden
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263340
-#EXTINF:-1,FHD | Golden Edge
+#EXTINF:-1 group-title="Cine",Golden Edge
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263341
-#EXTINF:-1,FHD | Golden Premier 1
+#EXTINF:-1 group-title="Cine",Golden Premier 1
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301443
-#EXTINF:-1,FHD | Golden Premier2
+#EXTINF:-1 group-title="Cine",Golden Premier2
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301439
-#EXTINF:-1,FHD | HBO Family
+#EXTINF:-1 group-title="HBO",HBO Family
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301434
-#EXTINF:-1,FHD | HBO Plus
+#EXTINF:-1 group-title="HBO",HBO Plus
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/301442
-#EXTINF:-1,FHD | HBO
+#EXTINF:-1 group-title="HBO",HBO
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263288
-#EXTINF:-1,FHD | HBO 2
+#EXTINF:-1 group-title="HBO",HBO 2
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263289
-#EXTINF:-1,FHD | HBO Extreme
+#EXTINF:-1 group-title="HBO",HBO Extreme
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263437
-#EXTINF:-1,FHD | HBO Signature
+#EXTINF:-1 group-title="HBO",HBO Signature
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263449
-#EXTINF:-1,FHD | Paramount Channel
+#EXTINF:-1 group-title="Cine",Paramount Channel
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263357
-#EXTINF:-1,FHD | Space
+#EXTINF:-1 group-title="Cine",Space
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263355
-#EXTINF:-1,FHD | Studio Universal
+#EXTINF:-1 group-title="Cine",Studio Universal
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263284
-#EXTINF:-1,FHD | TNT
+#EXTINF:-1 group-title="Cine",TNT
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263280
-#EXTINF:-1,FHD | TNT Series
+#EXTINF:-1 group-title="Entretenimineto",TNT Series
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263342
-#EXTINF:-1,FHD | Warner Channel
+#EXTINF:-1 group-title="Entretenimineto",Warner Channel
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263282
-#EXTINF:-1,FHD | Universal Channel
+#EXTINF:-1 group-title="Cine",Universal Channel
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263283
-#EXTINF:-1,FHD | MTV
+#EXTINF:-1 group-title="Entretenimineto",MTV
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263351
-#EXTINF:-1,FHD | MTV Live
+#EXTINF:-1 group-title="Entretenimineto",MTV Live
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263353
-#EXTINF:-1,FHD | VH1
+#EXTINF:-1 group-title="Entretenimineto",VH1
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263352
-#EXTINF:-1,CO | Win Sports Op1
+#EXTINF:-1 group-title="Deportes",Win Sports Op1
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/426
-#EXTINF:-1,CO | Win Sports Op2
+#EXTINF:-1 group-title="Deportes",Win Sports Op2
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/427
-#EXTINF:-1,CO | Caracol Internacional
+#EXTINF:-1, group-title="Colombia",Caracol Internacional
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/1520
-#EXTINF:-1,CO | Win Sports + SD
+#EXTINF:-1 group-title="Deportes",Win Sports + SD
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/25155
-#EXTINF:-1,CO | Win Sports + HD
+#EXTINF:-1 group-title="Deportes",Win Sports + HD
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/25156
-#EXTINF:-1,LA | ESPN Deportes
+#EXTINF:-1 group-title="Deportes",ESPN Deportes
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/295699
-#EXTINF:-1,CO | ESPN
+#EXTINF:-1 group-title="Deportes",ESPN
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/271287
-#EXTINF:-1,CO | ESPN 2
+#EXTINF:-1 group-title="Deportes",ESPN 2
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/262312
-#EXTINF:-1,HD  | ESPN 3 MX
+#EXTINF:-1 group-title="Deportes",ESPN 3 MX
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/27980
-#EXTINF:-1,CO | RCN FHD
+#EXTINF:-1 group-title="Colombia",RCN FHD
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/254190
-#EXTINF:-1,CO | CARACOL FHD
+#EXTINF:-1 group-title="Colombia",CARACOL FHD
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/254191
-#EXTINF:-1,Discovery Science
+#EXTINF:-1 group-title="Cultura",Discovery Science
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/161
-#EXTINF:-1,LA:Regreso Al Futuro
+#EXTINF:-1 group-title="Peliculas",Regreso Al Futuro
 http://ae2.aatvbox.club:8880/movie/EilaineCyrus/kwNjMz9Xbu/36581.mp4
-#EXTINF:-1,LA:Regreso Al Futuro II
+#EXTINF:-1 group-title="Peliculas",Regreso Al Futuro II
 http://ae2.aatvbox.club:8880/movie/EilaineCyrus/kwNjMz9Xbu/36579.mp4
-#EXTINF:-1,LA:Regreso Al Futuro III
+#EXTINF:-1 group-title="Peliculas",Regreso Al Futuro III
 http://ae2.aatvbox.club:8880/movie/EilaineCyrus/kwNjMz9Xbu/36580.mp4
