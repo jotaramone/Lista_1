@@ -1,11 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="Peliculas",Angel TV America
-https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelamerica_all/playlist.m3u8
-#EXTINF:-1,FHD | AXN
+
+#EXTINF:-1 group-title="Peliculas",AXN
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263277
-#EXTINF:-1,FHD | A&E
+#EXTINF:-1 group-title="Peliculas",A&E
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263279
-#EXTINF:-1,FHD | FX
+#EXTINF:-1 group-title="Peliculas",FX
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263442
 #EXTINF:-1,FHD | Lifetime
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263440
