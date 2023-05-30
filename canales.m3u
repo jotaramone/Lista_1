@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AngelTVAmerica.in" group-title="Peliculas",Angel TV America (720p)
+#EXTINF:-1 group-title="Peliculas",Angel TV America
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelamerica_all/playlist.m3u8
 #EXTINF:-1,FHD | AXN
 http://51.222.43.170:8001/2861/xR4VbCnLKjJp/263277
